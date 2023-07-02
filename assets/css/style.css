@@ -1,0 +1,12 @@
+.modal-close{
+    background-color: #EB5757;
+    position: absolute;
+    right: -12px;
+    top: -15px;
+    width: 44px;
+    height: 42px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+
+}
